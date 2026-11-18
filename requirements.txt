@@ -1,0 +1,3 @@
+# Render builds this repository from its root. The actual application lives in
+# backend/, so keep dependency declarations there and include them here.
+-r backend/requirements.txt
